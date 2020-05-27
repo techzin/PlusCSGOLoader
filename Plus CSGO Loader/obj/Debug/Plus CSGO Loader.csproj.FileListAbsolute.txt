@@ -1,0 +1,14 @@
+C:\Users\techp\Documents\GitHub\Public\PlusCSGOLoader\Plus CSGO Loader\bin\Debug\Plus CSGO Loader.exe.config
+C:\Users\techp\Documents\GitHub\Public\PlusCSGOLoader\Plus CSGO Loader\bin\Debug\Plus CSGO Loader.exe
+C:\Users\techp\Documents\GitHub\Public\PlusCSGOLoader\Plus CSGO Loader\bin\Debug\Plus CSGO Loader.pdb
+C:\Users\techp\Documents\GitHub\Public\PlusCSGOLoader\Plus CSGO Loader\obj\Debug\Plus CSGO Loader.csprojAssemblyReference.cache
+C:\Users\techp\Documents\GitHub\Public\PlusCSGOLoader\Plus CSGO Loader\obj\Debug\Plus_CSGO_Loader.Form1.resources
+C:\Users\techp\Documents\GitHub\Public\PlusCSGOLoader\Plus CSGO Loader\obj\Debug\Plus_CSGO_Loader.Properties.Resources.resources
+C:\Users\techp\Documents\GitHub\Public\PlusCSGOLoader\Plus CSGO Loader\obj\Debug\Plus CSGO Loader.csproj.GenerateResource.cache
+C:\Users\techp\Documents\GitHub\Public\PlusCSGOLoader\Plus CSGO Loader\obj\Debug\Plus CSGO Loader.csproj.CoreCompileInputs.cache
+C:\Users\techp\Documents\GitHub\Public\PlusCSGOLoader\Plus CSGO Loader\obj\Debug\Plus CSGO Loader.csproj.CopyComplete
+C:\Users\techp\Documents\GitHub\Public\PlusCSGOLoader\Plus CSGO Loader\obj\Debug\Plus CSGO Loader.exe
+C:\Users\techp\Documents\GitHub\Public\PlusCSGOLoader\Plus CSGO Loader\obj\Debug\Plus CSGO Loader.pdb
+C:\Users\techp\Documents\GitHub\Public\PlusCSGOLoader\Plus CSGO Loader\bin\Debug\MetroFramework.Design.dll
+C:\Users\techp\Documents\GitHub\Public\PlusCSGOLoader\Plus CSGO Loader\bin\Debug\MetroFramework.dll
+C:\Users\techp\Documents\GitHub\Public\PlusCSGOLoader\Plus CSGO Loader\bin\Debug\MetroFramework.Fonts.dll
