@@ -135,6 +135,10 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.tab);
             this.DisplayHeader = false;
+            this.MaximizeBox = false;
+            this.MaximumSize = new System.Drawing.Size(424, 240);
+            this.MinimizeBox = false;
+            this.MinimumSize = new System.Drawing.Size(424, 240);
             this.Name = "Form1";
             this.Padding = new System.Windows.Forms.Padding(20, 30, 20, 20);
             this.Text = "Form1";

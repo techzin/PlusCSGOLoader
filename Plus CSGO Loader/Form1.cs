@@ -26,7 +26,7 @@ namespace Plus_CSGO_Loader
         {
             if (metroComboBox1.SelectedIndex == 0)
             {
-                MessageBox.Show("Teste");
+                
             }
         }
     }
